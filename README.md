@@ -29,12 +29,12 @@ The device can be used as a simple tool to estimate alcohol content in a user's 
 |                 | A0              | A0               |
 | DHT11 Sensor    | VCC             | 5V               |
 |                 | GND             | GND              |
-|                 | Data            | D2               |
+|                 | Data            | D4               |
 | OLED Display    | VCC             | 3.3V             |
 |                 | GND             | GND              |
 |                 | SDA             | A4               |
 |                 | SCL             | A5               |
-| Buzzer          | Positive        | D3               |
+| Buzzer          | Positive        | D2               |
 |                 | Negative        | GND              |
 
 ## Libraries Required
